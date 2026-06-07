@@ -1,3 +1,2 @@
-Hand sign detaction dataset..
-
+Hand sign detaction dataset.
 
